@@ -1,0 +1,52 @@
+WWW-PriceMinister
+-----------------
+
+This distribution provides a suite of mofules to access the
+information available on the French PriceMinister online
+second-hand selling website.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+Alternatively, to install with Module::Build, you can use the following commands:
+
+	perl Build.PL
+	./Build
+	./Build test
+	./Build install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc WWW::PriceMinister
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-PriceMinister
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/WWW-PriceMinister
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/WWW-PriceMinister
+
+    Search CPAN
+        http://search.cpan.org/dist/WWW-PriceMinister
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2008 Philippe Bruhat (BooK)
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+

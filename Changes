@@ -1,0 +1,11 @@
+Revision history for WWW-PriceMinister
+
+0.01  Wed Jul 30 23:37:15 CEST 2008
+        [FEATURES]
+        - WWW::PriceMinister front-end module
+        - WWW::PriceMinister::Item, WWW::PriceMinister::Offer
+          and WWW::PriceMinister::Seller objects, that can parse
+          the appropriate web pages
+        [TESTS]
+        - 100% coverage
+
